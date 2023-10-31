@@ -196,6 +196,7 @@ div.b_f_area div.b_f_s_wrap:last-of-type{
 }
 div.b_f_area div.b_f_s_wrap ul li{
 	float:none;
+
 }
 div.b_f_area div.b_f_s_wrap ul li a{
 	text-decoration: none;
@@ -204,7 +205,8 @@ div.b_f_area div.b_f_s_wrap h2.red{
 	color:red;
 }
 div.b_f_area div.b_f_s_wrap h2.green{
-	color:green;
+	color:#0693E3;
+	padding: 5px;
 }div.b_f_area div.b_f_s_wrap h2.orange{
 	color:orange;
 }

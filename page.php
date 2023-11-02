@@ -32,7 +32,7 @@
 			 
 			 <br class="clear" />
 			
-			 <?php get_template_part('before_footer_widget'); ?>
+			 
 			 
 		</div>
 <?php get_footer(); ?>

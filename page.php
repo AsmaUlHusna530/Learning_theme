@@ -2,7 +2,6 @@
 
 		<div class="content_wrapper">
 			<div class="left_content">
-			
 				<?php 
 				
 				if(have_posts()) : 
@@ -28,8 +27,12 @@
 				
 				?>
 			</div>
-			 
+			
 	         <?php  get_sidebar(); ?>
+			 
 			 <br class="clear" />
+			
+			 <?php get_template_part('before_footer_widget'); ?>
+			 
 		</div>
 <?php get_footer(); ?>

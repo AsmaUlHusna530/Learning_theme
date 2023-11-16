@@ -4,6 +4,7 @@
 <!-- Wordpress Theme Development By Asma ul Husna -->
 	<meta charset="<?php bloginfo('charset'); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
 <title><?php bloginfo('name'); ?></title>  <!--dynamic title-->
 
 	<?php wp_head(); ?>
@@ -20,5 +21,5 @@
 				wp_nav_menu($args ); 
 				?>
 			</div>
-		</nav>			
+		</nav>		
 		</header>
